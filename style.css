@@ -18,8 +18,8 @@ h1 {
 }
 
 img {
-    width: 450px;
-    height: 300px;
+    width: 500px;
+    height: auto;
     margin: 10px;
     transition: all 0.5s;
     box-shadow: 4px 4px 5px #888888;
